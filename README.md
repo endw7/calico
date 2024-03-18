@@ -1,4 +1,4 @@
-# calico
+# 🐈‍⬛ calico
 simple modern programming language build to use in sync with a smooth custom ide
 
 ## Variables
