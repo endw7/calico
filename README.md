@@ -28,6 +28,6 @@ functions are very simple:
 
 ```
 function functionName() {
-  // example
+  return ""
 }
 ```
