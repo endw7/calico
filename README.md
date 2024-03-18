@@ -20,3 +20,14 @@ using no spaces in places different to the last bit will give an error:
 ``
 var variableName=1
 ``
+
+
+## Functions
+
+functions are very simple:
+
+``
+function functionName() {
+  // example
+}
+``
