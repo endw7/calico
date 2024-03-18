@@ -26,8 +26,8 @@ var variableName=1
 
 functions are very simple:
 
-``
+```
 function functionName() {
   // example
 }
-``
+```
